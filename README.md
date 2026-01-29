@@ -9,15 +9,14 @@
 
 ## 🎬 Video Editing Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,audition" />
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop" />
 </p>
 
 <p>
-  🖥️ Adobe Premiere Pro <br>
-  🎞️ After Effects <br>
-  🎨 Photoshop <br>
-  🎧 Adobe Audition (Audio Sync & Sound Design) <br>
-  ⚡ Fast Cuts · Transitions · Color Grading
+🖥️ Adobe Premiere Pro <br>
+🎞️ After Effects <br>
+🎨 Photoshop <br>
+⚡ Fast Cuts · Transitions · Color Grading
 </p>
 
 ---
@@ -33,7 +32,7 @@
 
 ## 🧰 Tools I Use Daily:
 <p>
-  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,audition" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,windows,git" />
 </p>
 
 ---
