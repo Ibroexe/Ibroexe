@@ -9,14 +9,14 @@
 
 ## 🎬 Video Editing Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,audition" />
 </p>
 
 <p>
   🖥️ Adobe Premiere Pro <br>
   🎞️ After Effects <br>
   🎨 Photoshop <br>
-  🎧 Audio Sync & Sound Design <br>
+  🎧 Adobe Audition (Audio Sync & Sound Design) <br>
   ⚡ Fast Cuts · Transitions · Color Grading
 </p>
 
@@ -27,13 +27,13 @@
 - 🔥 YouTube Shorts / TikTok / Reels  
 - 🎮 Gaming & montage edits  
 - 🎬 Sync to beat, clean transitions, smooth flow  
-- 💻 Editing workflows using **Visual Studio** for scripts, tools & automation  
+- 💻 Editing workflows using **Premiere Pro, After Effects & Photoshop**
 
 ---
 
 ## 🧰 Tools I Use Daily:
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,windows,git" />
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,audition" />
 </p>
 
 ---
