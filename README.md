@@ -52,6 +52,20 @@
 
 ---
 
+## 📱 Follow me online
+
+<p align="center">
+  <a href="https://www.youtube.com/@ibroexe)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ibroexe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   💡 *"Editing is not cutting clips – it's telling a story."*
 </p>
