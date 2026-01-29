@@ -13,7 +13,7 @@
 </p>
 
 <p>
-🖥️ Adobe Premiere Pro <br>
+🖥️ Adobe Premiere Pro (CapCut) <br>
 🎞️ After Effects <br>
 🎨 Photoshop <br>
 ⚡ Fast Cuts · Transitions · Color Grading
@@ -26,7 +26,7 @@
 - 🔥 YouTube Shorts / TikTok / Reels  
 - 🎮 Gaming & montage edits  
 - 🎬 Sync to beat, clean transitions, smooth flow  
-- 💻 Editing workflows using **Premiere Pro, After Effects & Photoshop**
+- 💻 Editing workflows using **Premiere Pro (CapCut), After Effects & Photoshop**
 
 ---
 
@@ -38,14 +38,6 @@
 ---
 
 ## 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibro&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibro&layout=compact&theme=tokyonight" />
-</p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibro&theme=tokyonight" />
 </p>
