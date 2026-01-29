@@ -32,7 +32,7 @@
 
 ## 🧰 Tools I Use Daily:
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,windows,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,windows,premiere,discord" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 📱 Follow me online
 
 <p align="center">
-  <a href="https://www.youtube.com/@ibroexe)" target="_blank">
+  <a href="https://www.youtube.com/@ibroexe" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   &nbsp;
