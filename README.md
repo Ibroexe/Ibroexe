@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibro</h1>
+<h3 align="center">Video Editor & Creative Developer</h3>
 
-<!--
-**Ibroexe/Ibroexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Video+Editor;Motion+Design;Creative+Editing;Always+Improving&center=true&width=520">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎬 Video Editing Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,js,nodejs" />
+</p>
+
+<p>
+  🖥️ Adobe Premiere Pro <br>
+  🎞️ After Effects <br>
+  🎨 Photoshop <br>
+  🎧 Audio Sync & Sound Design <br>
+  ⚡ Fast Cuts · Transitions · Color Grading
+</p>
+
+---
+
+## 🧠 What I Do:
+- 🎥 Short-form & long-form video editing  
+- 🔥 YouTube Shorts / TikTok / Reels  
+- 🎮 Gaming & montage edits  
+- 🎬 Sync to beat, clean transitions, smooth flow  
+- 💻 Editing workflows using **Visual Studio** for scripts, tools & automation  
+
+---
+
+## 🧰 Tools I Use Daily:
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,windows,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibro&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibro&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibro&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Goals:
+- Grow as a professional video editor  
+- Build strong personal brand  
+- Automate editing workflows  
+- Level up creative + technical skills  
+
+---
+
+<p align="center">
+  💡 *"Editing is not cutting clips – it's telling a story."*
+</p>
