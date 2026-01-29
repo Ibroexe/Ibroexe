@@ -2,8 +2,6 @@
 <h3 align="center">Video Editor & Creative Developer</h3>
 
 <p align="center">
-  <img src="https://link-do-capcut-logoa.png" width="40" />
-
   <img src="https://readme-typing-svg.herokuapp.com?lines=Video+Editor;Motion+Design;Creative+Editing;Always+Improving&center=true&width=520">
 </p>
 
