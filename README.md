@@ -32,7 +32,7 @@
 
 ## 🧰 Tools I Use Daily:
 <p>
-  <img src="https://icons?i=visualstudio,windows,git" />
+  <img src="https://visualstudio,windows,git" />
 </p>
 
 ---
